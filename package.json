@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "core.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "gh-pages": "^3.2.0",
+    "node-image-downloader": "^1.0.7",
+    "request": "^2.88.2",
+    "ytdl-core": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepahuja-stack/yt-thumbnail-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandeepahuja-stack/yt-thumbnail-backend/issues"
+  },
+  "homepage": "https://github.com/sandeepahuja-stack/yt-thumbnail-backend#readme",
+  "description": ""
+}
